@@ -1,0 +1,3 @@
+num samples: 5000
+num gaussians: 20
+output dim: 2
